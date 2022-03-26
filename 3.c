@@ -1,4 +1,4 @@
-用switch语句编写一个简单的实数四则运算程序
+//用switch语句编写一个简单的实数四则运算程序
 #include<stdio.h>
 int main()
 {
