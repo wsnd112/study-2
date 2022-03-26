@@ -1,4 +1,4 @@
-用while循环求s=1+2+3+…+n的值
+//用while循环求s=1+2+3+…+n的值
 #include <stdio.h>
 int main()
 {
